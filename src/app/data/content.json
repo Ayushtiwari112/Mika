@@ -1,0 +1,41 @@
+{
+  "title": "Happy Girlfriend Day",
+  "subtitle": "I Love You Mika ♾️❤️",
+  "timeline": [
+    {
+      "title": "First Chat",
+      "date": "8 April 2026",
+      "description": "Meowww",
+      "icon": "💌"
+    },
+    {
+      "title": "First Call",
+      "date": "19 April 2026",
+      "description": "Our voices made the distance feel tiny.",
+      "icon": "📞"
+    },
+    {
+      "title": "First Meet",
+      "date": "16 May 2026",
+      "description": "The day everything became real.",
+      "icon": "🌸"
+    },
+    {
+      "title": "Proposal Day",
+      "date": "7 July 2026",
+      "description": "A promise I will keep for every tomorrow.",
+      "icon": "💍"
+    }
+  ],
+  "firstPhoto": "/first-photo.jpeg",
+  "gallery": [
+    "/memory1.jpg",
+    "/memory2.jpg",
+    "/memory3.jpg",
+    "/memory4.jpg",
+    "/memory5.jpg"
+  ],
+  "loveLetter": "Meowww, Akshita. Ayush here from Vapi. ❤️\n\nI know I wasn't from Kota, but you still chose to keep talking to me for almost 1.5 months. Then we met for the first time, and honestly, it felt unreal. Those six days in Kota became one of the most beautiful memories of my life.\n\nAfter that, you stole my heart, and now it'll always belong to you. Even when there was no guarantee we'd meet again, you still stayed with me and kept talking to me for another 1.5 months. When we met the second time, I realized I was completely and madly in love with you.\n\nEven now, we don't know when we'll meet again, but you still choose me every single day. That means more to me than you know. Just a few more months, and we'll finally be together.\n\nJab puchre kaun hai best\nIt's Mikaa I guess♾️❤️",
+  "musicEnabled": true,
+  "background": "rose"
+}
